@@ -1,0 +1,17 @@
+# Autodesk Inventor
+*.bak
+*.log
+OldVersions/
+
+# Blender temporary and autosave files
+*.blend1
+*.blend2
+__pycache__/
+
+# Others
+*.tmp
+*.lock
+
+# System
+.DS_Store
+Thumbs.db
